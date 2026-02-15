@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineer;VLSI+%7C+Digital+Design+%7C+ASIC+Flow;RTL+%E2%86%92+Synthesis+%E2%86%92+Physical+Design;Sky130+%7C+OpenLANE+%7C+OpenROAD+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineer;VLSI+%7C+Digital+Design+%7C+ASIC+Flow;RTL+%E2%86%92+Synthesis+%E2%86%92+Physical+Design+Explorer" />
 </p>
 
 ---
