@@ -67,15 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasmahadevaswamy&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmahadevaswamy&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📈 2026 Learning Goals
 
 - 📌 Static Timing Analysis (STA)
@@ -90,7 +81,7 @@
 
 📍 Bangalore, India  
 📧 shreyasm52112@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/shreyas-m-18840a258  
+🔗 www.linkedin.com/in/shreyas-m-4a92503b1?trk
 
 ---
 
@@ -101,5 +92,5 @@ To secure an internship in **VLSI / ASIC Design / Physical Design**, contributin
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=THANK%20OYU&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
 </p>
