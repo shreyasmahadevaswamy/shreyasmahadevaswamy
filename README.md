@@ -92,5 +92,5 @@ To secure an internship in **VLSI / ASIC Design / Physical Design**, contributin
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=THANK%20OYU&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=THANK%20YOU&fontSize=25&fontColor=ffffff&animation=fadeIn"/>
 </p>
