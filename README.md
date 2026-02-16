@@ -81,7 +81,7 @@
 
 📍 Bangalore, India  
 📧 shreyasm52112@gmail.com  
-🔗 www.linkedin.com/in/shreyas-m-4a92503b1?trk
+🔗 www.linkedin.com/in/shreyas-m-4a92503b1
 
 ---
 
